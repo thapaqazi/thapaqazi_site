@@ -1,0 +1,1 @@
+const contact = document.querySelector('header > h2');
